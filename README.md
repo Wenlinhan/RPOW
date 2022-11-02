@@ -4,7 +4,7 @@ Reusable Proof-of-Work (RPOW) was an invention by Hal Finney intended as a proto
 
 ### Historical Context
 
-In the 1990s the Cypherpunks began to play around with the idea of a digital cash whose value would not be dependent on an organization issuing it. Following Nick Szabo, this form of digital cash would be recognizable as being limited in supply, and therefore usable as money, by being provably difficult to create. This could be done by defining units of the digital cash in terms of proof-of-work. Some proposals for digital collectibles circulated on the cypherpunk mailing list, including [b-money](http://nakamotoinstitute.org/b-money/) by Wei Dai and [Bit Gold](http://nakamotoinstitute.org/bit-gold/) by Nick Szabo. RPOW was the only digital collectible to ever function as a piece of software.
+In the 1990s the Cypherpunks began to play around with the idea of a digital cash whose value would not be dependent on an organization issuing it. Following Nick Szabo, this form of digital cash would be recognizable as being limited in supply, and therefore usable as money, by being provably difficult to create. This could be done by defining units of the digital cash in terms of proof-of-work. Some proposals for digital collectibles circulated on the Cypherpunk's mailing list, including [b-money](http://nakamotoinstitute.org/b-money/) by Wei Dai and [Bit Gold](http://nakamotoinstitute.org/bit-gold/) by Nick Szabo. RPOW was the only digital collectible to ever function as a piece of software.
 
 ### How it Works
 
